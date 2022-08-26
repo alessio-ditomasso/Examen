@@ -11,6 +11,8 @@ class PasswordClass
 
     }
 
+
+
     /**
      * @param $message
      * @return bool
